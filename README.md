@@ -1,4 +1,4 @@
-# 📊 SalesIQ — E-commerce Sales Insights Dashboard
+# SalesIQ — E-commerce Sales Insights Dashboard
 
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -9,18 +9,18 @@
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- **🔒 100% Client-Side:** Your data never leaves your browser. All parsing, processing, and visualization happen locally.
-- **🧠 Intelligent Auto-Detection:** Automatically maps your CSV/JSON columns (Revenue, Date, Product Names, etc.) using smart heuristics.
-- **📈 Interactive Dashboards:** Visualize trends, customer behavior, and product performance with beautiful, responsive charts.
-- **🛠️ Custom Column Mapping:** If auto-detection isn't perfect, use the intuitive mapper to manually link your data fields.
-- **📄 PDF Export:** Generate professional reports of your sales insights with a single click.
-- **⚡ Built for Speed:** Leveraging **React 19** and **TanStack Start** for a near-instantaneous user experience.
+- **Local Processing:** Your data never leaves your browser. All parsing, processing, and visualization happen locally.
+- **Intelligent Auto-Detection:** Automatically maps your CSV/JSON columns (Revenue, Date, Product Names, etc.) using smart heuristics.
+- **Interactive Dashboards:** Visualize trends, customer behavior, and product performance with beautiful, responsive charts.
+- **Custom Column Mapping:** If auto-detection isn't perfect, use the intuitive mapper to manually link your data fields.
+- **PDF Export:** Generate professional reports of your sales insights with a single click.
+- **Performance Optimized:** Leveraging **React 19** and **TanStack Start** for a near-instantaneous user experience.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** [React 19](https://react.dev/)
 - **Routing & State:** [TanStack Start](https://tanstack.com/router/v1) (Router + Query)
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -68,7 +68,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ├── src/
@@ -85,7 +85,7 @@
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
@@ -97,13 +97,13 @@ Contributions are welcome! If you have a suggestion that would make this better,
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Keerthana Indalker** - [GitHub Profile](https://github.com/KeerthanaIndalker)
 
