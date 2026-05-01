@@ -68,6 +68,21 @@
 
 ---
 
+## Deployment
+
+### Deploy to Vercel
+
+The easiest way to deploy this project is via the [Vercel Platform](https://vercel.com/new):
+
+1.  Push your code to a GitHub repository.
+2.  Import your repository into Vercel.
+3.  Vercel will auto-detect the configuration via the `vercel.json` file.
+4.  Click **Deploy**.
+
+The project is configured to use the `.output` directory for deployment, which is where the production-ready server and assets are generated.
+
+---
+
 ## Project Structure
 
 ```text
